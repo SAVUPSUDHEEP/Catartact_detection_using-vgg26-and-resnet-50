@@ -1,0 +1,19 @@
+* text=auto
+
+# Binary files
+*.h5 binary
+*.pb binary
+*.pth binary
+*.pkl binary
+*.zip binary
+*.tar.gz binary
+*.rar binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# Jupyter
+*.ipynb merge=union
