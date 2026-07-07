@@ -150,7 +150,6 @@ If you use this project, please cite:
 ```
 
 
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -161,7 +160,7 @@ For questions or inquiries, please open an issue on the repository.
 
 ---
 
-**Built with:** Python, TensorFlow/Keras, OpenCV, Scikit-learn
+**Built with:** Python, TensorFlow/Keras, OpenCV, Scikit-learn.
 ##📄 Publication
 
 This work has been published in the Springer proceedings of ICICCT 2025.
