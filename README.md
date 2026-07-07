@@ -162,3 +162,11 @@ For questions or inquiries, please open an issue on the repository.
 ---
 
 **Built with:** Python, TensorFlow/Keras, OpenCV, Scikit-learn
+📄 Publication
+
+This work has been published in the Springer proceedings of ICICCT 2025.
+
+Title:
+Cataract Detection Using Deep Learning Leveraging Fundus and Anterior Eye Images
+
+DOI: https://doi.org/10.1007/978-3-032-08600-6_38
